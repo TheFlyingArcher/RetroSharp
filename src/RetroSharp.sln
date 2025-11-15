@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetroSharp", "RetroSharp\RetroSharp.csproj", "{06DAD11F-8963-4044-B43F-1469B3EC9598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetroSharp.Data", "RetroSharp.Data\RetroSharp.Data.csproj", "{AEE109BD-2390-4236-895F-21448CEE2704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06DAD11F-8963-4044-B43F-1469B3EC9598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DAD11F-8963-4044-B43F-1469B3EC9598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06DAD11F-8963-4044-B43F-1469B3EC9598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DAD11F-8963-4044-B43F-1469B3EC9598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE109BD-2390-4236-895F-21448CEE2704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE109BD-2390-4236-895F-21448CEE2704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE109BD-2390-4236-895F-21448CEE2704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE109BD-2390-4236-895F-21448CEE2704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
